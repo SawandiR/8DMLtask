@@ -1,0 +1,102 @@
+property_id,address,suburb,postcode,property_type,sale_price,price_disclosed,sale_date,bedrooms,bathrooms,car_spaces,land_size_sqm,listed_area_sqm,suburb_population,suburb_median_household_income_annual,agent_name,agent_company,notes
+1,8/88 Avenue Road,Mosman,2088,unit,730000.0,Yes,2026-09-12,1,1,1,,,28329,150384,Mitchell Soineva,Pello Lower North Shore,
+2,7/10 Muston Street,Mosman,2088,unit,750000.0,Yes,2026-09-08,1,1,0,,45.0,28329,150384,Titan Davis,Pello Lower North Shore,"land_size is the whole strata lot, not a private yard"
+3,13/5 The Esplanade,Mosman,2088,unit,1450000.0,Yes,2026-09-03,1,1,0,,,28329,150384,Samuel Petrou,Ray White Lower North Shore Group,
+4,8/73 Spit Road,Mosman,2088,unit,,No,2026-09-10,2,1,1,,107.0,28329,150384,Adam Vernon,Vernon Partners,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+5,2B Mosman Street,Mosman,2088,house,,No,2026-09-09,3,2,1,,,28329,150384,David Grant,De Brennan Property,PRICE WITHHELD - notable architectural heritage property; exclude from model training
+6,3/17 Milner Street,Mosman,2088,unit,790000.0,Yes,2026-08-21,1,1,0,,,28329,150384,Adam Vernon,Vernon Partners,
+7,111/116 Belmont Road,Mosman,2088,unit,930000.0,Yes,2026-08-19,1,1,1,,74.0,28329,150384,Andrew Bowden,Raine & Horne Mosman,
+8,4/139-153 Middle Head Road,Mosman,2088,unit,2600000.0,Yes,2026-08-14,3,2,2,,,28329,150384,David Murphy,Murphy Residential,
+9,6/139-153 Middle Head Road,Mosman,2088,unit,2558000.0,Yes,2026-08-13,3,2,2,,,28329,150384,,The Agency North,
+10,14/669 Military Road,Mosman,2088,unit,1600000.0,Yes,2026-08-12,2,1,1,,96.0,28329,150384,Andrew Bowden,Raine & Horne Mosman,
+11,9/71 Avenue Road,Mosman,2088,unit,700000.0,Yes,2026-08-10,1,1,1,,,28329,150384,Titan Davis,Pello Lower North Shore,
+12,3/6 Brierley Street,Mosman,2088,unit,975000.0,Yes,2026-08-04,2,1,0,,,28329,150384,Jon Snead,McGrath Lower North Shore - Mosman,
+13,11/23 Warringah Road,Mosman,2088,unit,865000.0,Yes,2026-07-31,1,1,1,,,28329,150384,Mitchell Soineva,Pello Lower North Shore,
+14,6/40 Raglan Street,Mosman,2088,unit,1600000.0,Yes,2026-07-27,2,1,1,,103.0,28329,150384,David Murphy,Murphy Residential,
+15,142/15 Hale Road,Mosman,2088,retirement,3800000.0,Yes,2026-07-24,3,2,2,,,28329,150384,Samuel Petrou,Ray White Lower North Shore Group,"Listed as 'Retirement Living' category - high price for the type, worth checking as a possible outlier in Part 2"
+16,5 Botanic Road,Mosman,2088,house,8700000.0,Yes,2026-07-22,4,3,2,,,28329,150384,Richard Simeon,Simeon Partners,Highest price collected so far - flag as potential outlier/luxury tier for Part 2 and revisit for Part 4
+17,23 Dalton Road,Mosman,2088,semi-detached,2900000.0,Yes,2026-07-21,3,2,1,,,28329,150384,Rob Jacobs,O'Gorman and Partners Real Estate Co,
+18,10/16 Avenue Road,Mosman,2088,unit,892000.0,Yes,2026-07-20,2,1,0,,80.0,28329,150384,David Murphy,Murphy Residential,
+19,4/3 Millett Road,Mosman,2088,unit,1050000.0,Yes,2026-07-16,2,1,1,,,28329,150384,Richie Tramontana,Vernon Partners,
+20,7/154 Raglan Street,Mosman,2088,unit,785000.0,Yes,2026-07-14,1,1,1,,,28329,150384,Andrew Bova,Exclusive Real Estate,
+21,1/128-130 Avenue Road,Mosman,2088,unit,1415000.0,Yes,2026-07-14,2,1,1,,,28329,150384,Anthony O'Gorman,O'Gorman and Partners Real Estate Co,
+22,8/6 Punch Street,Mosman,2088,unit,700000.0,Yes,2026-07-09,1,1,0,,,28329,150384,Samuel Petrou,Ray White Lower North Shore Group,
+23,2/70-72 Middle Head Road,Mosman,2088,unit,,No,2026-08-25,2,1,2,,174.0,28329,150384,David Murphy,Murphy Residential,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+24,20/5 Parriwi Road,Mosman,2088,unit,,No,2026-08-22,2,1,1,,,28329,150384,David Benjafield,Belle Property Lower North Shore Group,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+25,13 Rosebery Street,Mosman,2088,house,,No,2026-08-21,2,1,0,244.0,,28329,150384,David Murphy,Murphy Residential,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+26,10 Redan Street,Mosman,2088,house,,No,2026-08-21,5,4,2,891.0,,28329,150384,Stefon Bertram,Pello Lower North Shore,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+27,3/8 Muston Street,Mosman,2088,unit,,No,2026-08-19,1,1,0,,,28329,150384,Andrew Thomas,Stone Real Estate Neutral Bay,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+28,4/67 Bradleys Head Road,Mosman,2088,unit,,No,2026-08-18,2,1,0,,,28329,150384,Sally Rodgers,Vernon Partners,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+29,1/7 Belmont Road,Mosman,2088,unit,,No,2026-08-18,2,1,0,,,28329,150384,Lewis Adams,Ray White Lower North Shore Group,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+30,10 Prince Street,Mosman,2088,house,,No,2026-08-13,3,3,4,258.0,,28329,150384,Colin Craig,Ray White Lower North Shore Group,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+31,8/824 Military Road,Mosman,2088,unit,,No,2026-08-13,2,1,1,,,28329,150384,David Murphy,Murphy Residential,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+32,13/26 Raglan Street,Mosman,2088,unit,,No,2026-08-11,1,1,1,,,28329,150384,Harrison Schmidt,Belle Property Lower North Shore Group,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+33,22A Upper Avenue,Mosman,2088,house,,No,2026-08-10,4,3,2,,,28329,150384,Sam Towndrow,Sydney Sotheby's International Realty,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+34,12 Milner Street,Mosman,2088,house,,No,2026-08-08,4,3,2,288.0,,28329,150384,Anthony Godson,McGrath Lower North Shore - Mosman,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+35,4/124 Spit Road,Mosman,2088,unit,,No,2026-08-07,2,1,0,,76.0,28329,150384,David Murphy,Murphy Residential,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+36,4/23 McLeod Street,Mosman,2088,unit,,No,2026-08-06,2,2,1,,,28329,150384,Marize Bellomo,Stone Mosman,"PRICE WITHHELD - exclude from model training, keep for missing-data discussion"
+37,2/16 Betts Street,Parramatta,2150,unit,660000.0,Yes,2026-09-12,2,1,1,,,30211,108784,Ashton Boukers,Stone Real Estate Parramatta,
+38,1404/1-3 Valentine Avenue,Parramatta,2150,unit,320000.0,Yes,2026-09-11,1,1,0,,,30211,108784,,,
+39,33/68 Great Western Highway,Parramatta,2150,unit,520000.0,Yes,2026-09-11,2,1,1,,,30211,108784,Xue Lin (Lee) Xiao,Ray White Parramatta/Oatlands,
+40,505/23 Hassall Street,Parramatta,2150,unit,660000.0,Yes,2026-09-09,2,2,1,,,30211,108784,Xue Lin (Lee) Xiao,Ray White Parramatta/Oatlands,
+41,89/459-463 Church Street,Parramatta,2150,unit,580000.0,Yes,2026-09-04,2,2,1,,,30211,108784,Xue Lin (Lee) Xiao,Ray White Parramatta/Oatlands,
+42,8/64-66 Great Western Highway,Parramatta,2150,unit,425000.0,Yes,2026-09-04,1,1,1,,,30211,108784,Steven Fan,Ray White Parramatta/Oatlands,
+43,1702/45 Macquarie Street,Parramatta,2150,unit,705000.0,Yes,2026-09-04,2,2,1,,,30211,108784,Bobby Bo Zhu,Ray White Parramatta/Oatlands,
+44,10/4 Peace Lane,Parramatta,2150,unit,570000.0,Yes,2026-09-03,2,2,1,,108.0,30211,108784,Bobby Bo Zhu,Ray White Parramatta/Oatlands,
+45,9/178 George Street,Parramatta,2150,unit,490000.0,Yes,2026-09-01,1,1,0,,,30211,108784,Vanessa White,Meriton Apartments - Residential,
+46,3/23 Good Street,Parramatta,2150,unit,569000.0,Yes,2026-08-31,2,1,1,,,30211,108784,Bobby Bo Zhu,Ray White Parramatta/Oatlands,
+47,17/10-12 Thomas Street,Parramatta,2150,unit,650000.0,Yes,2026-08-31,2,1,1,,,30211,108784,Tom Chan,Chain Real Estate,
+48,401/6 River Road West,Parramatta,2150,unit,540000.0,Yes,2026-08-30,2,2,1,,108.0,30211,108784,Cassie Lu,McGrath Epping,
+49,1403/1-3 Valentine Avenue,Parramatta,2150,unit,355000.0,Yes,2026-08-28,1,1,1,,,30211,108784,,,
+50,1201/45 Macquarie Street,Parramatta,2150,unit,566000.0,Yes,2026-08-28,1,1,1,,,30211,108784,Bobby Bo Zhu,Ray White Parramatta/Oatlands,
+51,5/30-32 Queens Avenue,Parramatta,2150,unit,680000.0,Yes,2026-08-28,2,1,1,,,30211,108784,Patrick Boondok,Stone Real Estate Parramatta,
+52,11/32 Hassall Street,Parramatta,2150,unit,590000.0,Yes,2026-08-28,2,2,1,,,30211,108784,Deborah Fay,Century 21 The Hills District,
+53,C26/88-98 Marsden Street,Parramatta,2150,unit,552000.0,Yes,2026-08-27,2,2,1,,,30211,108784,Qicheng (Kevin) Zhu,Ray White Everest Group,
+54,15/1 Good Street,Parramatta,2150,unit,480000.0,Yes,2026-08-27,2,1,1,,,30211,108784,John Dahdah,Belle Property Parramatta | Beecroft,
+55,1417/32 Hunter Street (AKA 1417/45 Macquarie St),Parramatta,2150,unit,560000.0,Yes,2026-08-26,1,1,1,,,30211,108784,Bobby Bo Zhu,Ray White Parramatta/Oatlands,
+56,907/6-10 Charles Street,Parramatta,2150,unit,720000.0,Yes,2026-08-25,3,2,1,,,30211,108784,Zhengqi (Jason) Zhang,Victory Lease Pty Ltd,
+57,1003/330 Church Street,Parramatta,2150,unit,550000.0,Yes,2026-07-03,1,1,1,,,30211,108784,,McGrath Parramatta,
+58,505/31-37 Hassall Street,Parramatta,2150,unit,404000.0,Yes,2026-07-03,1,1,1,,,30211,108784,,McGrath Parramatta,
+59,6/50 Morton Street,Parramatta,2150,villa,850000.0,Yes,2026-06-30,2,2,1,,,30211,108784,Telly Poulos,Sky Realty,
+60,625/88 Church Street,Parramatta,2150,unit,520000.0,Yes,2026-06-29,1,1,0,,,30211,108784,,Stone,
+61,841/180 George Street,Parramatta,2150,unit,600000.0,Yes,2026-06-29,2,1,0,,,30211,108784,Elie Dabbas,Laing & Simmons Parramatta Granville,
+62,124 Thomas Street,Parramatta,2150,house,2300000.0,Yes,2026-06-27,3,1,1,739.0,,30211,108784,Team Aaron X Rowan,McGrath Parramatta,
+63,203/36-46 Cowper Street,Parramatta,2150,unit,600000.0,Yes,2026-06-26,2,2,1,,116.0,30211,108784,,PIA,
+64,4/29A Great Western Highway,Parramatta,2150,unit,420000.0,Yes,,2,1,1,,,30211,108784,Lulu Zhang,Austyle Realty,Exact sale date partly obscured in source screenshot - estimated from position in sale-date-sorted list
+65,18/3 Good Street,Parramatta,2150,unit,710000.0,Yes,2026-06-25,2,2,1,,,30211,108784,Sam Karhani,Century 21 Advantage,
+66,1204/45 Macquarie Street,Parramatta,2150,unit,515000.0,Yes,2026-06-23,1,1,1,,,30211,108784,Bobby Bo Zhu,Ray White Parramatta/Oatlands,
+67,19/54-58 Macarthur Street,Parramatta,2150,unit,625000.0,Yes,2026-06-22,2,2,1,,,30211,108784,Patrick Boondok,Stone Real Estate Parramatta,
+68,801/22 Charles Street,Parramatta,2150,unit,655000.0,Yes,2026-06-22,2,2,1,,,30211,108784,Vedant Agrawal,TAG RE,
+69,8/2A Cowper Street,Parramatta,2150,unit,551000.0,Yes,2026-06-19,2,1,1,,,30211,108784,Patrick Boondok,Stone Real Estate Parramatta,
+70,9/39-41 Victoria Road,Parramatta,2150,unit,670000.0,Yes,2026-06-19,2,2,2,,149.0,30211,108784,Patrick Boondok,Stone Real Estate Parramatta,
+71,4/23-33 Napier Street,Parramatta,2150,unit,672000.0,Yes,2026-06-19,2,2,1,,,30211,108784,,Seven Real Estate,
+72,17/46 Luxford Road,Mount Druitt,2770,unit,420000.0,Yes,2026-09-11,2,1,1,,,16986,76856,,R&W Elite Group,
+73,44/78 Methven Street,Mount Druitt,2770,townhouse,710000.0,Yes,2026-09-07,3,1,2,,,16986,76856,,,
+74,86 Palmerston Road,Mount Druitt,2770,house,1000000.0,Yes,2026-08-17,4,2,1,637.0,,16986,76856,,,
+75,52 Paull Street,Mount Druitt,2770,house,1290000.0,Yes,2026-08-20,3,1,3,1012.0,,16986,76856,Ismail Ates,Ausrealty - Hills District,
+76,8 Berry Street,Mount Druitt,2770,house,945000.0,Yes,2026-08-18,3,1,1,600.0,,16986,76856,,,
+77,1/1-5 Meacher Street,Mount Druitt,2770,townhouse,1700000.0,Yes,2026-08-14,4,2,2,320.0,,16986,76856,,,
+78,20a Derwent Street,Mount Druitt,2770,house,1000000.0,Yes,2026-08-11,4,3,1,,,16986,76856,,Ray White,
+79,2/17 O'Brien Street,Mount Druitt,2770,villa,685000.0,Yes,,3,1,1,207.0,,16986,76856,,Nidus,Sale date unclear in source (overlapping cards) - falls between 31 Jul and 11 Aug 2026
+80,5/2-4 Meacher Street,Mount Druitt,2770,house,870000.0,Yes,2026-07-31,3,1,1,264.0,,16986,76856,,,
+81,15/41 Morehead Avenue,Mount Druitt,2770,unit,385000.0,Yes,2026-07-30,2,1,1,,,16986,76856,,R&W Elite Group,
+82,2 & 2A Ophir Grove,Mount Druitt,2770,house,1105000.0,Yes,2026-07-23,5,2,2,,,16986,76856,,Ray White,Combined/dual-address sale (2 titles sold together)
+83,14/29 Methven Street,Mount Druitt,2770,townhouse,725000.0,Yes,2026-07-23,3,1,2,,,16986,76856,,Laing+Simmons,
+84,28/34 Hythe Street,Mount Druitt,2770,unit,435000.0,Yes,2026-07-18,2,1,1,,,16986,76856,,Ray White,"4,269 sqm is the whole strata block's land, not this unit's individual footprint"
+85,3/8 Hythe Street,Mount Druitt,2770,unit,410000.0,Yes,,2,1,1,,,16986,76856,,Laing+Simmons,"~1,012 sqm is an aerial/site-plan measurement, likely the whole allotment not this unit alone; exact sale date unclear in source, roughly late Aug 2026"
+86,14/24 Methven Street,Mount Druitt,2770,villa,660000.0,Yes,2026-07-09,3,1,1,,,16986,76856,Vik Vashisht,VAS Global Real Estate,
+87,15/40 Luxford Road,Mount Druitt,2770,unit,375000.0,Yes,2026-07-01,2,1,1,,79.0,16986,76856,,Ray White,
+88,23/5-7 The Avenue,Mount Druitt,2770,unit,410000.0,Yes,2026-06-25,1,1,1,,89.0,16986,76856,,Laing+Simmons,
+89,44/2 Hythe Street,Mount Druitt,2770,house,440000.0,Yes,2026-06-25,2,1,1,104.0,,16986,76856,Niman Kayastha,Ray White Blacktown City,Labelled 'House' in source despite unit-style address numbering - recorded as shown
+90,13a Notley Street,Mount Druitt,2770,semi-detached,825000.0,Yes,2026-06-20,3,1,1,325.0,,16986,76856,Niman Kayastha,Ray White Blacktown City,
+91,6/49 Methven Street,Mount Druitt,2770,villa,465000.0,Yes,2026-06-19,2,1,1,,,16986,76856,Peter Sassine,Ray White (United Group),
+92,1/502-514 Carlisle Avenue,Mount Druitt,2770,unit,468000.0,Yes,2026-06-18,2,1,2,,,16986,76856,,,
+93,504/7 Durham Street,Mount Druitt,2770,unit,527000.0,Yes,2026-06-15,2,2,1,,,16986,76856,,,"3,384 sqm is the whole strata block's land, not this unit's individual footprint"
+94,19/22 Luxford Road,Mount Druitt,2770,unit,400000.0,Yes,2026-06-05,2,1,1,,,16986,76856,,Stockton Grange,"'Stockton Grange' appears to be the building/development name shown on the listing, not confirmed as the selling agency"
+95,B704/1 Zoe Place,Mount Druitt,2770,unit,641700.0,Yes,2026-06-03,2,2,1,,,16986,76856,,Pointer,Sold as new apartment / off-the-plan - may not be comparable to established resale stock
+96,31 Calala Street,Mount Druitt,2770,house,930000.0,Yes,2026-05-30,3,1,1,,,16986,76856,,Ray White,
+97,32 Tidswell Street,Mount Druitt,2770,house,1530000.0,Yes,2026-05-30,4,1,1,1012.0,,16986,76856,,Chapman,
+98,5/28 Luxford Road,Mount Druitt,2770,unit,380000.0,Yes,2026-05-29,2,1,1,,,16986,76856,Joel Hollings,McGrath Blacktown,
+99,3/28 Methven Street,Mount Druitt,2770,villa,630000.0,Yes,2026-05-29,3,1,1,,,16986,76856,,,Source screenshot showed two conflicting agency banners for this listing (Belle Property and R&W Elite Group) due to a rendering glitch - agent left blank rather than guessed
+100,28C Tulloona Street,Mount Druitt,2770,house,1125000.0,Yes,2026-05-26,4,3,2,,,16986,76856,,Laing+Simmons,
+101,5/5-7 The Avenue,Mount Druitt,2770,unit,525000.0,Yes,2026-05-29,2,2,1,,,16986,76856,,,
